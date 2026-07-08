@@ -57,48 +57,32 @@ Invaders march from the right side of the screen down random lanes. The portrait
 ## 🧮 Core Game Calculations & Formulas
 
 ### 1. Grid Snapping Mathematics
-To place units accurately on the isometric-flat grid, raw mouse world coordinates \((x_w, y_w)\) are snapped to column and row indices:
+To place units accurately on the isometric-flat grid, raw mouse world coordinates $(x_w, y_w)$ are snapped to column and row indices:
 
 Let:
-* \(C_w = 1.0\) (Cell Width), \(C_h = 1.4\) (Cell Height)
-* \(cols = 9\), \(rows = 5\)
-* \(X_{offset}, Y_{offset}\) be the bottom-left coordinate calculated from the grid center offset:
-  \[
-  X_{start} = X_{offset} - \frac{(cols - 1) \cdot C_w}{2}
-  \]
-  \[
-  Y_{start} = Y_{offset} - \frac{(rows - 1) \cdot C_h}{2}
-  \]
+* $C_w = 1.0$ (Cell Width), $C_h = 1.4$ (Cell Height)
+* $cols = 9$, $rows = 5$
+* $X_{offset}, Y_{offset}$ be the bottom-left coordinate calculated from the grid center offset:
+  $$X_{start} = X_{offset} - \frac{(cols - 1) \cdot C_w}{2}$$
+  $$Y_{start} = Y_{offset} - \frac{(rows - 1) \cdot C_h}{2}$$
 
-The snapped grid cell indices \((g_x, g_y)\) are:
-\[
-g_x = \text{clamp}\left( \text{round}\left( \frac{x_w - X_{start}}{C_w} \right), 0, cols - 1 \right)
-\]
-\[
-g_y = \text{clamp}\left( \text{round}\left( \frac{y_w - Y_{start}}{C_h} \right), 0, rows - 1 \right)
-\]
+The snapped grid cell indices $(g_x, g_y)$ are:
+$$g_x = \text{clamp}\left( \text{round}\left( \frac{x_w - X_{start}}{C_w} \right), 0, cols - 1 \right)$$
+$$g_y = \text{clamp}\left( \text{round}\left( \frac{y_w - Y_{start}}{C_h} \right), 0, rows - 1 \right)$$
 
 The final instantiated position vector is:
-\[
-P_{snap} = \begin{bmatrix} X_{start} + g_x \cdot C_w \\ Y_{start} + g_y \cdot C_h \\ 0 \end{bmatrix}
-\]
+$$P_{snap} = \begin{bmatrix} X_{start} + g_x \cdot C_w \\ Y_{start} + g_y \cdot C_h \\ 0 \end{bmatrix}$$
 
 ---
 
 ### 2. Economy Formulas
 Currency is accumulated dynamically throughout gameplay:
 * **Passive Gold Ticks**:
-  \[
-  \text{Gold}_{passive} = +10 \text{ Gold} \quad \text{every } 2.0 \text{ seconds}
-  \]
+  $$\text{Gold}_{passive} = +10 \text{ Gold} \quad \text{every } 2.0 \text{ seconds}$$
 * **Water Bearer Ticks**:
-  \[
-  \text{Gold}_{peasant} = +25 \text{ Gold} \quad \text{every } 5.0 \text{ seconds}
-  \]
-* **Total Resource Flow Rate** (given \(N\) deployed Water Bearers):
-  \[
-  \text{Gold Generation Rate} = 5.0 + 5.0 \cdot N \quad (\text{Gold / second})
-  \]
+  $$\text{Gold}_{peasant} = +25 \text{ Gold} \quad \text{every } 5.0 \text{ seconds}$$
+* **Total Resource Flow Rate** (given $N$ deployed Water Bearers):
+  $$\text{Gold Generation Rate} = 5.0 + 5.0 \cdot N \quad (\text{Gold / second})$$
 
 ---
 
@@ -106,49 +90,33 @@ Currency is accumulated dynamically throughout gameplay:
 
 #### Time To Kill (TTK)
 The time required for a combatant to defeat an opponent is calculated as:
-\[
-\text{TTK} = \frac{\text{Health of Target}}{\text{DPS}}
-\]
+$$\text{TTK} = \frac{\text{Health of Target}}{\text{DPS}}$$
 
 * **Crusader Archer DPS**:
-  \[
-  \text{DPS}_{Archer} = \frac{\text{Damage}}{\text{Fire Rate}} = \frac{20}{1.5s} \approx 13.33 \text{ DPS}
-  \]
+  $$\text{DPS}_{Archer} = \frac{\text{Damage}}{\text{Fire Rate}} = \frac{20}{1.5\text{s}} \approx 13.33 \text{ DPS}$$
 * **Archer TTK against Saracen Soldier (100 HP)**:
-  \[
-  \text{TTK} = \frac{100}{13.33} = 7.5 \text{ seconds}
-  \]
+  $$\text{TTK} = \frac{100}{13.33} = 7.5 \text{ seconds}$$
 
 #### Time To Live (TTL)
 The duration a defender can withstand damage from an attacker before dying:
-\[
-\text{TTL} = \frac{\text{Health of Defender}}{\text{Incoming Damage / Second}}
-\]
+$$\text{TTL} = \frac{\text{Health of Defender}}{\text{Incoming Damage / Second}}$$
 
 * **Shield-Bearer (300 HP) holding a Mamluk Elite (40 Damage / 2.0s = 20 DPS)**:
-  \[
-  \text{TTL} = \frac{300}{20} = 15.0 \text{ seconds}
-  \]
+  $$\text{TTL} = \frac{300}{20} = 15.0 \text{ seconds}$$
 
 ---
 
 ### 4. Advanced Attack Range Checks
 
 #### King Baldwin IV's Greek Fire (AoE Blast)
-The Greek Fire flask flies linearly at speed \(v = 4.0\). Upon impact, it runs a 2D physics overlap check:
-\[
-\text{Overlap Circle Radius } r = 1.2 \text{ units}
-\]
+The Greek Fire flask flies linearly at speed $v = 4.0$. Upon impact, it runs a 2D physics overlap check:
+$$\text{Overlap Circle Radius } r = 1.2 \text{ units}$$
 All units carrying the `Enemy` tag inside this radius take a flat **50 damage**.
 
 #### Spearman Distance Strike (Raycasting)
 The Saracen Spearman checks for defenders in front of it using a physical raycast:
-\[
-\text{Raycast Distance } d = 1.5 \text{ units}
-\]
-If a collider with a `Health` script (excluding other enemies) is hit:
-1. Spearman halts movement vector.
-2. Initiates spear attack cycle (**15 Damage** / **1.2s**).
+$$\text{Raycast Distance } d = 1.5 \text{ units}$$
+If a defender is detected within $1.5$ units in the Spearman's lane (excluding self and teammates), the Spearman locks onto the target and ceases movement to attack.
 
 ---
 
