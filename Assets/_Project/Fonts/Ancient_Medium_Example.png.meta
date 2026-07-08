@@ -1,0 +1,3562 @@
+fileFormatVersion: 2
+guid: b19d6409a4c94cc4da820fca56231f2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2199763712632066059
+    second: Ancient_Medium_Example_0
+  - first:
+      213: -1385804455158586989
+    second: Ancient_Medium_Example_1
+  - first:
+      213: 6697603873797206787
+    second: Ancient_Medium_Example_2
+  - first:
+      213: 5290216279321725922
+    second: Ancient_Medium_Example_3
+  - first:
+      213: 4223222600047956463
+    second: Ancient_Medium_Example_4
+  - first:
+      213: -4232672980942531326
+    second: Ancient_Medium_Example_5
+  - first:
+      213: -8090421526269088980
+    second: Ancient_Medium_Example_6
+  - first:
+      213: 1636636567549109951
+    second: Ancient_Medium_Example_7
+  - first:
+      213: 5370742123926412331
+    second: Ancient_Medium_Example_8
+  - first:
+      213: -2225304199792523394
+    second: Ancient_Medium_Example_9
+  - first:
+      213: 1293923620860952220
+    second: Ancient_Medium_Example_10
+  - first:
+      213: -3075757805737867587
+    second: Ancient_Medium_Example_11
+  - first:
+      213: 113025982038308212
+    second: Ancient_Medium_Example_12
+  - first:
+      213: 8184745319885838261
+    second: Ancient_Medium_Example_13
+  - first:
+      213: 1229930757735763575
+    second: Ancient_Medium_Example_14
+  - first:
+      213: -8641770888123850656
+    second: Ancient_Medium_Example_15
+  - first:
+      213: 291514902083695148
+    second: Ancient_Medium_Example_16
+  - first:
+      213: 5661027835741592725
+    second: Ancient_Medium_Example_17
+  - first:
+      213: 2970756193963796889
+    second: Ancient_Medium_Example_18
+  - first:
+      213: 5939860790491342826
+    second: Ancient_Medium_Example_19
+  - first:
+      213: 40125740707220509
+    second: Ancient_Medium_Example_20
+  - first:
+      213: 3906781029799250144
+    second: Ancient_Medium_Example_21
+  - first:
+      213: 8161949900384481883
+    second: Ancient_Medium_Example_22
+  - first:
+      213: 5535754413343588288
+    second: Ancient_Medium_Example_23
+  - first:
+      213: -52648188195459305
+    second: Ancient_Medium_Example_24
+  - first:
+      213: 9144406308815172598
+    second: Ancient_Medium_Example_25
+  - first:
+      213: 5529834740286759568
+    second: Ancient_Medium_Example_26
+  - first:
+      213: 1971166101581125028
+    second: Ancient_Medium_Example_27
+  - first:
+      213: 7093837560443899588
+    second: Ancient_Medium_Example_28
+  - first:
+      213: -2795600156640898437
+    second: Ancient_Medium_Example_29
+  - first:
+      213: 8222936667585291244
+    second: Ancient_Medium_Example_30
+  - first:
+      213: -1520228379586114427
+    second: Ancient_Medium_Example_31
+  - first:
+      213: -5751898137060554214
+    second: Ancient_Medium_Example_32
+  - first:
+      213: 2089254254803109262
+    second: Ancient_Medium_Example_33
+  - first:
+      213: 3029649709971089182
+    second: Ancient_Medium_Example_34
+  - first:
+      213: -1821473702055023980
+    second: Ancient_Medium_Example_35
+  - first:
+      213: 3648720541990012205
+    second: Ancient_Medium_Example_36
+  - first:
+      213: -2349054578199041860
+    second: Ancient_Medium_Example_37
+  - first:
+      213: 3621585199080150269
+    second: Ancient_Medium_Example_38
+  - first:
+      213: -2048722694011358201
+    second: Ancient_Medium_Example_39
+  - first:
+      213: 5450675767049868842
+    second: Ancient_Medium_Example_40
+  - first:
+      213: -1223556500812866400
+    second: Ancient_Medium_Example_41
+  - first:
+      213: 1290759922416633926
+    second: Ancient_Medium_Example_42
+  - first:
+      213: -8717356776551848348
+    second: Ancient_Medium_Example_43
+  - first:
+      213: 3695877572963954332
+    second: Ancient_Medium_Example_44
+  - first:
+      213: 1806772685830060263
+    second: Ancient_Medium_Example_45
+  - first:
+      213: 7057539100356964360
+    second: Ancient_Medium_Example_46
+  - first:
+      213: -8069998675722570689
+    second: Ancient_Medium_Example_47
+  - first:
+      213: -248255781724077231
+    second: Ancient_Medium_Example_48
+  - first:
+      213: 6330090436776784903
+    second: Ancient_Medium_Example_49
+  - first:
+      213: 5127635576331273893
+    second: Ancient_Medium_Example_50
+  - first:
+      213: 7434873169363404854
+    second: Ancient_Medium_Example_51
+  - first:
+      213: -5829244818228515371
+    second: Ancient_Medium_Example_52
+  - first:
+      213: 8421751537416265853
+    second: Ancient_Medium_Example_53
+  - first:
+      213: -3860355974619967750
+    second: Ancient_Medium_Example_54
+  - first:
+      213: 968505222897236740
+    second: Ancient_Medium_Example_55
+  - first:
+      213: 6628143848076834162
+    second: Ancient_Medium_Example_56
+  - first:
+      213: -2194371880328960768
+    second: Ancient_Medium_Example_57
+  - first:
+      213: -5990249464485032035
+    second: Ancient_Medium_Example_58
+  - first:
+      213: -2579102155450402211
+    second: Ancient_Medium_Example_59
+  - first:
+      213: -2324687848667423176
+    second: Ancient_Medium_Example_60
+  - first:
+      213: -4987485366977258879
+    second: Ancient_Medium_Example_61
+  - first:
+      213: 6244582755442321515
+    second: Ancient_Medium_Example_62
+  - first:
+      213: 9088693720590865418
+    second: Ancient_Medium_Example_63
+  - first:
+      213: 6880113292605152445
+    second: Ancient_Medium_Example_64
+  - first:
+      213: -2335343470487469208
+    second: Ancient_Medium_Example_65
+  - first:
+      213: -3448203025128779750
+    second: Ancient_Medium_Example_66
+  - first:
+      213: -4585999816828905356
+    second: Ancient_Medium_Example_67
+  - first:
+      213: 7271980883733041141
+    second: Ancient_Medium_Example_68
+  - first:
+      213: 8623929445501099465
+    second: Ancient_Medium_Example_69
+  - first:
+      213: -4774541508330366673
+    second: Ancient_Medium_Example_70
+  - first:
+      213: -5083446487928165299
+    second: Ancient_Medium_Example_71
+  - first:
+      213: 8707415478176143485
+    second: Ancient_Medium_Example_72
+  - first:
+      213: -1246333799497894954
+    second: Ancient_Medium_Example_73
+  - first:
+      213: -4413681629389970107
+    second: Ancient_Medium_Example_74
+  - first:
+      213: 5443104414945053541
+    second: Ancient_Medium_Example_75
+  - first:
+      213: -7909713947184212579
+    second: Ancient_Medium_Example_76
+  - first:
+      213: 2181331952133017081
+    second: Ancient_Medium_Example_77
+  - first:
+      213: -4071306619441478127
+    second: Ancient_Medium_Example_78
+  - first:
+      213: -9191607955423619353
+    second: Ancient_Medium_Example_79
+  - first:
+      213: 7279180007431498411
+    second: Ancient_Medium_Example_80
+  - first:
+      213: -1856099607526933070
+    second: Ancient_Medium_Example_81
+  - first:
+      213: -939681025359837825
+    second: Ancient_Medium_Example_82
+  - first:
+      213: 9120359101804740282
+    second: Ancient_Medium_Example_83
+  - first:
+      213: -2505664528618154167
+    second: Ancient_Medium_Example_84
+  - first:
+      213: 5403088626545714103
+    second: Ancient_Medium_Example_85
+  - first:
+      213: 7463207991755588670
+    second: Ancient_Medium_Example_86
+  - first:
+      213: 6926991857308376866
+    second: Ancient_Medium_Example_87
+  - first:
+      213: 7909722119659453248
+    second: Ancient_Medium_Example_88
+  - first:
+      213: 81953800052988615
+    second: Ancient_Medium_Example_89
+  - first:
+      213: -2051311024721521426
+    second: Ancient_Medium_Example_90
+  - first:
+      213: -4850642759231089469
+    second: Ancient_Medium_Example_91
+  - first:
+      213: -7139940685168394032
+    second: Ancient_Medium_Example_92
+  - first:
+      213: -3716470820741111080
+    second: Ancient_Medium_Example_93
+  - first:
+      213: 3026115556077213686
+    second: Ancient_Medium_Example_94
+  - first:
+      213: 7615738676811471233
+    second: Ancient_Medium_Example_95
+  - first:
+      213: 1646248096714341947
+    second: Ancient_Medium_Example_96
+  - first:
+      213: 2276748452433552373
+    second: Ancient_Medium_Example_97
+  - first:
+      213: 8876330318436783589
+    second: Ancient_Medium_Example_98
+  - first:
+      213: 7967221591297675588
+    second: Ancient_Medium_Example_99
+  - first:
+      213: -3388764395140000942
+    second: Ancient_Medium_Example_100
+  - first:
+      213: 1709527078376685690
+    second: Ancient_Medium_Example_101
+  - first:
+      213: -445254117566259760
+    second: Ancient_Medium_Example_102
+  - first:
+      213: -7784434656522208693
+    second: Ancient_Medium_Example_103
+  - first:
+      213: 5293441374274242405
+    second: Ancient_Medium_Example_104
+  - first:
+      213: 62519639281449922
+    second: Ancient_Medium_Example_105
+  - first:
+      213: -6864788024006081508
+    second: Ancient_Medium_Example_106
+  - first:
+      213: 6513593561595734384
+    second: Ancient_Medium_Example_107
+  - first:
+      213: -4263852303329766883
+    second: Ancient_Medium_Example_108
+  - first:
+      213: -3658321880426582848
+    second: Ancient_Medium_Example_109
+  - first:
+      213: 4810938953755127464
+    second: Ancient_Medium_Example_110
+  - first:
+      213: 4961251874464377772
+    second: Ancient_Medium_Example_111
+  - first:
+      213: 8229254848555290358
+    second: Ancient_Medium_Example_112
+  - first:
+      213: -5190846963753249271
+    second: Ancient_Medium_Example_113
+  - first:
+      213: -2117210858209566719
+    second: Ancient_Medium_Example_114
+  - first:
+      213: 8177471568370072157
+    second: Ancient_Medium_Example_115
+  - first:
+      213: 1929399632028996084
+    second: Ancient_Medium_Example_116
+  - first:
+      213: 5950660881391422632
+    second: Ancient_Medium_Example_117
+  - first:
+      213: 4604569226592147462
+    second: Ancient_Medium_Example_118
+  - first:
+      213: 3950937973712332324
+    second: Ancient_Medium_Example_119
+  - first:
+      213: -3473291033273111464
+    second: Ancient_Medium_Example_120
+  - first:
+      213: -4240771294603064926
+    second: Ancient_Medium_Example_121
+  - first:
+      213: 4036727046757765158
+    second: Ancient_Medium_Example_122
+  - first:
+      213: 5101599360390236822
+    second: Ancient_Medium_Example_123
+  - first:
+      213: 7309633758262543747
+    second: Ancient_Medium_Example_124
+  - first:
+      213: 5051612741365851846
+    second: Ancient_Medium_Example_125
+  - first:
+      213: 7568372837499161798
+    second: Ancient_Medium_Example_126
+  - first:
+      213: -5592530447930704784
+    second: Ancient_Medium_Example_127
+  - first:
+      213: 5471702918338981335
+    second: Ancient_Medium_Example_128
+  - first:
+      213: -3283153582260230258
+    second: Ancient_Medium_Example_129
+  - first:
+      213: 7676527493501339039
+    second: Ancient_Medium_Example_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_0
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2517
+        width: 2063
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff65c6ee8ed871e0800000000000000
+      internalID: -2199763712632066059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_1
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2870
+        width: 1888
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3916e1ab032a4cce0800000000000000
+      internalID: -1385804455158586989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1412
+        width: 1112
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30376ffdc3ba2fc50800000000000000
+      internalID: 6697603873797206787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_3
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2375
+        width: 1584
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebc5f16daf9a6940800000000000000
+      internalID: 5290216279321725922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_4
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1385
+        width: 692
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe192434496eb9a30800000000000000
+      internalID: 4223222600047956463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_5
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 2173
+        width: 286
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205d68879568245c0800000000000000
+      internalID: -4232672980942531326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_6
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1419
+        width: 534
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bae8b9c7c09bf80800000000000000
+      internalID: -8090421526269088980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_7
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 1385
+        width: 692
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6ed23794086b610800000000000000
+      internalID: 1636636567549109951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_8
+      rect:
+        serializedVersion: 2
+        x: 4306
+        y: 1451
+        width: 398
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c5cdc9185b88a40800000000000000
+      internalID: 5370742123926412331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_9
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1417
+        width: 506
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e778e26de912e11e0800000000000000
+      internalID: -2225304199792523394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_10
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 1420
+        width: 382
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e77eb7da0f4f110800000000000000
+      internalID: 1293923620860952220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_11
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 1321
+        width: 107
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db60cdd5296b055d0800000000000000
+      internalID: -3075757805737867587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1071
+        width: 246
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47578c5288c819100800000000000000
+      internalID: 113025982038308212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1072
+        width: 211
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b716d8f08e069170800000000000000
+      internalID: 8184745319885838261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1048
+        width: 259
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eca29f187911110800000000000000
+      internalID: 1229930757735763575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1073
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060e01fc923421880800000000000000
+      internalID: -8641770888123850656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_16
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1074
+        width: 194
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c227e69424bab0400800000000000000
+      internalID: 291514902083695148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_17
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1076
+        width: 237
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cd9fcb2d2009e40800000000000000
+      internalID: 5661027835741592725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_18
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1072
+        width: 224
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999e087c40f3a3920800000000000000
+      internalID: 2970756193963796889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_19
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1071
+        width: 238
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7e1801bef9e6250800000000000000
+      internalID: 5939860790491342826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_20
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1073
+        width: 172
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0439062e8e8000800000000000000
+      internalID: 40125740707220509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_21
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1260
+        width: 128
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e84b68c5aca73630800000000000000
+      internalID: 3906781029799250144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_22
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1072
+        width: 164
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b3f6c032154170800000000000000
+      internalID: 8161949900384481883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_23
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1265
+        width: 117
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf352b2f43f2dc40800000000000000
+      internalID: 5535754413343588288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_24
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 1262
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71faa8470c4f44ff0800000000000000
+      internalID: -52648188195459305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_25
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1071
+        width: 226
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3f4c6b61577ee70800000000000000
+      internalID: 9144406308815172598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_26
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 1105
+        width: 212
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0922861e56bedbc40800000000000000
+      internalID: 5529834740286759568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_27
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 1072
+        width: 282
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5d80e202dfa5b10800000000000000
+      internalID: 1971166101581125028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_28
+      rect:
+        serializedVersion: 2
+        x: 4126
+        y: 1072
+        width: 225
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce059c2daf527260800000000000000
+      internalID: 7093837560443899588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_29
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 1072
+        width: 225
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72946128780439d0800000000000000
+      internalID: -2795600156640898437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_30
+      rect:
+        serializedVersion: 2
+        x: 4774
+        y: 1072
+        width: 226
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3a4f9055dbd1270800000000000000
+      internalID: 8222936667585291244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_31
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1071
+        width: 194
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c4d41e75017eae0800000000000000
+      internalID: -1520228379586114427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 744
+        width: 194
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a46448e172d20b0800000000000000
+      internalID: -5751898137060554214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 758
+        width: 239
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e854307eca58efc10800000000000000
+      internalID: 2089254254803109262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 791
+        width: 219
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1721b40c5a7b0a20800000000000000
+      internalID: 3029649709971089182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_35
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 791
+        width: 226
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a6b4d8153d8b6e0800000000000000
+      internalID: -1821473702055023980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_36
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 793
+        width: 200
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d254cfd400cd2a230800000000000000
+      internalID: 3648720541990012205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_37
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 793
+        width: 229
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e0749e4b766fd0800000000000000
+      internalID: -2349054578199041860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_38
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 789
+        width: 219
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df41cf2fc84724230800000000000000
+      internalID: 3621585199080150269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_39
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 792
+        width: 272
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704fb2c70997193e0800000000000000
+      internalID: -2048722694011358201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_40
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 792
+        width: 217
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2656d03bb0b4ab40800000000000000
+      internalID: 5450675767049868842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_41
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 737
+        width: 188
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acdd6e58dd050fe0800000000000000
+      internalID: -1223556500812866400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_42
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 793
+        width: 185
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64844f98f43b9e110800000000000000
+      internalID: 1290759922416633926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_43
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 786
+        width: 151
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4666841c23ab50780800000000000000
+      internalID: -8717356776551848348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_44
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 793
+        width: 143
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e69dd22156a4330800000000000000
+      internalID: 3695877572963954332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_45
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 792
+        width: 113
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e877c06f22f21910800000000000000
+      internalID: 1806772685830060263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_46
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 792
+        width: 142
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800f4395b6a61f160800000000000000
+      internalID: 7057539100356964360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_47
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 793
+        width: 120
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34feab06fa910090800000000000000
+      internalID: -8069998675722570689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_48
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 792
+        width: 120
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15346ec8ea40e8cf0800000000000000
+      internalID: -248255781724077231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_49
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 740
+        width: 146
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047d28c6bff8d750800000000000000
+      internalID: 6330090436776784903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 497
+        width: 151
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a681e8a365092740800000000000000
+      internalID: 5127635576331273893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 712
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6380df181c9fd2760800000000000000
+      internalID: 7434873169363404854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_52
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 713
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde3b4f8bc5a1fa0800000000000000
+      internalID: -5829244818228515371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_53
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 545
+        width: 144
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70eb46276210e470800000000000000
+      internalID: 8421751537416265853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_54
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 548
+        width: 83
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe4832b1b24d6ac0800000000000000
+      internalID: -3860355974619967750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_55
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 726
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b76ed6e52d07d00800000000000000
+      internalID: 968505222897236740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_56
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 555
+        width: 90
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2757fc066b5ebfb50800000000000000
+      internalID: 6628143848076834162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 548
+        width: 86
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005e2efa6660c81e0800000000000000
+      internalID: -2194371880328960768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_58
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 494
+        width: 81
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f456989db5edca0800000000000000
+      internalID: -5990249464485032035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_59
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 544
+        width: 230
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a3fe81140353cd0800000000000000
+      internalID: -2579102155450402211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_60
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 540
+        width: 153
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ed286e7bc0dbfd0800000000000000
+      internalID: -2324687848667423176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_61
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 547
+        width: 158
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a9cdacb74e8cab0800000000000000
+      internalID: -4987485366977258879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_62
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 544
+        width: 140
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b686bac4ee639a650800000000000000
+      internalID: 6244582755442321515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_63
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 496
+        width: 158
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a045420f8c6812e70800000000000000
+      internalID: 9088693720590865418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_64
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 494
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc5c2456921b7f50800000000000000
+      internalID: 6880113292605152445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_65
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 544
+        width: 135
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863011d9c71379fd0800000000000000
+      internalID: -2335343470487469208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_66
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 547
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1095c53e958520d0800000000000000
+      internalID: -3448203025128779750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_67
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 547
+        width: 163
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47818e9d6714b50c0800000000000000
+      internalID: -4585999816828905356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_68
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 547
+        width: 148
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffc65cc5144be460800000000000000
+      internalID: 7271980883733041141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_69
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 547
+        width: 218
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cddf1f932a5ea770800000000000000
+      internalID: 8623929445501099465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_70
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 552
+        width: 193
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f295c967bcb6dbdb0800000000000000
+      internalID: -4774541508330366673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_71
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 495
+        width: 151
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ca55c3a58f379b0800000000000000
+      internalID: -5083446487928165299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_72
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 493
+        width: 129
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d785d685e34f6d870800000000000000
+      internalID: 8707415478176143485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_73
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 112
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d37d51430224bee0800000000000000
+      internalID: -1246333799497894954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_74
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 230
+        width: 145
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5452b8851f37fb2c0800000000000000
+      internalID: -4413681629389970107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_75
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 230
+        width: 147
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b092860aac98b40800000000000000
+      internalID: 5443104414945053541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_76
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 232
+        width: 162
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d12f821d0b3290800000000000000
+      internalID: -7909713947184212579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_77
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 232
+        width: 150
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd09107ad5a54e10800000000000000
+      internalID: 2181331952133017081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_78
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 233
+        width: 152
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1168e784330df77c0800000000000000
+      internalID: -4071306619441478127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_79
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 230
+        width: 153
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e612568349d07080800000000000000
+      internalID: -9191607955423619353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_80
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 233
+        width: 152
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa641766a7d40560800000000000000
+      internalID: 7279180007431498411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_81
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 233
+        width: 158
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd7d91bd3fcd36e0800000000000000
+      internalID: -1856099607526933070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_82
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 232
+        width: 157
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f758049061595f2f0800000000000000
+      internalID: -939681025359837825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_83
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 357
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe72170846029e70800000000000000
+      internalID: 9120359101804740282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_84
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 393
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9471b6503671a3dd0800000000000000
+      internalID: -2505664528618154167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_85
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 297
+        width: 130
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3e533aa70abfa40800000000000000
+      internalID: 5403088626545714103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_86
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 396
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34c2717024a29760800000000000000
+      internalID: 7463207991755588670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_87
+      rect:
+        serializedVersion: 2
+        x: 3941
+        y: 294
+        width: 81
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f93e8b46e912060800000000000000
+      internalID: 6926991857308376866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_88
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 226
+        width: 144
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bf95e3c5af4cd60800000000000000
+      internalID: 7909722119659453248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_89
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 359
+        width: 409
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad6240c88232100800000000000000
+      internalID: 81953800052988615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_90
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 309
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee491a7cd774883e0800000000000000
+      internalID: -2051311024721521426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_91
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 316
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4d5bb3c1e0facb0800000000000000
+      internalID: -4850642759231089469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_92
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 233
+        width: 129
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0cd2f96c5d9ec90800000000000000
+      internalID: -7139940685168394032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_93
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 231
+        width: 81
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22f9faa717c6cc0800000000000000
+      internalID: -3716470820741111080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_94
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 295
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f71441b01ceef920800000000000000
+      internalID: 3026115556077213686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_95
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 252
+        width: 447
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1891d850af980b960800000000000000
+      internalID: 7615738676811471233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_96
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 233
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e32d8fbe5a8d610800000000000000
+      internalID: 1646248096714341947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_97
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 225
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e83e97a2a89f10800000000000000
+      internalID: 2276748452433552373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_98
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 232
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e55473556f0f2b70800000000000000
+      internalID: 8876330318436783589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_99
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 217
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441de1c33d1419e60800000000000000
+      internalID: 7967221591297675588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_100
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 232
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2535030bcb0b8f0d0800000000000000
+      internalID: -3388764395140000942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_101
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 232
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70cd8002d579b710800000000000000
+      internalID: 1709527078376685690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_102
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 49
+        width: 150
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dddea73db322d9f0800000000000000
+      internalID: -445254117566259760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_103
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 61
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4af0c07ce128f390800000000000000
+      internalID: -7784434656522208693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_104
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 34
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567c8f052e4167940800000000000000
+      internalID: 5293441374274242405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_105
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 33
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb3bdad74d1ed000800000000000000
+      internalID: 62519639281449922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_106
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 61
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1403c2d9af5bb0a0800000000000000
+      internalID: -6864788024006081508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_107
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 63
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0796f2275dee46a50800000000000000
+      internalID: 6513593561595734384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_108
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 157
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125c45cbe0c3d4c0800000000000000
+      internalID: -4263852303329766883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_109
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 33
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc6223e1a70b3dc0800000000000000
+      internalID: -3658321880426582848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_110
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 34
+        width: 87
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aee9ae2d73e3c240800000000000000
+      internalID: 4810938953755127464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_111
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 67
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba0b24b48e9d440800000000000000
+      internalID: 4961251874464377772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_112
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 63
+        width: 95
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe8c4e2faf243270800000000000000
+      internalID: 8229254848555290358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_113
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 76
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9069212503866f7b0800000000000000
+      internalID: -5190846963753249271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_114
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 61
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a1d121f72e92e0800000000000000
+      internalID: -2117210858209566719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_115
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 61
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5afd89b0173c7170800000000000000
+      internalID: 8177471568370072157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_116
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 33
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f19bd03eba96ca10800000000000000
+      internalID: 1929399632028996084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_117
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 63
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac062e2b8ef49250800000000000000
+      internalID: 5950660881391422632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_118
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 35
+        width: 112
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60858b6c057b6ef30800000000000000
+      internalID: 4604569226592147462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_119
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 59
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426a9b4772d84d630800000000000000
+      internalID: 3950937973712332324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_120
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 63
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ce43025346ccfc0800000000000000
+      internalID: -3473291033273111464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_121
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 63
+        width: 49
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9c283e9f0c525c0800000000000000
+      internalID: -4240771294603064926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_122
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 63
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620553d8cd5550830800000000000000
+      internalID: 4036727046757765158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_123
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 157
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a8b6eb6958cc640800000000000000
+      internalID: 5101599360390236822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_124
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 59
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385417fcc29017560800000000000000
+      internalID: 7309633758262543747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_125
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 61
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6e2ff060fea1640800000000000000
+      internalID: 5051612741365851846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_126
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 62
+        width: 84
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc4ada2ff2480960800000000000000
+      internalID: 7568372837499161798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_127
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 63
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb88720375362b0800000000000000
+      internalID: -5592530447930704784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_128
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 62
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd201c50d46feb40800000000000000
+      internalID: 5471702918338981335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_129
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 63
+        width: 87
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87e35a3635ef62d0800000000000000
+      internalID: -3283153582260230258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ancient_Medium_Example_130
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95caa65511888a60800000000000000
+      internalID: 7676527493501339039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ancient_Medium_Example_0: -2199763712632066059
+      Ancient_Medium_Example_1: -1385804455158586989
+      Ancient_Medium_Example_10: 1293923620860952220
+      Ancient_Medium_Example_100: -3388764395140000942
+      Ancient_Medium_Example_101: 1709527078376685690
+      Ancient_Medium_Example_102: -445254117566259760
+      Ancient_Medium_Example_103: -7784434656522208693
+      Ancient_Medium_Example_104: 5293441374274242405
+      Ancient_Medium_Example_105: 62519639281449922
+      Ancient_Medium_Example_106: -6864788024006081508
+      Ancient_Medium_Example_107: 6513593561595734384
+      Ancient_Medium_Example_108: -4263852303329766883
+      Ancient_Medium_Example_109: -3658321880426582848
+      Ancient_Medium_Example_11: -3075757805737867587
+      Ancient_Medium_Example_110: 4810938953755127464
+      Ancient_Medium_Example_111: 4961251874464377772
+      Ancient_Medium_Example_112: 8229254848555290358
+      Ancient_Medium_Example_113: -5190846963753249271
+      Ancient_Medium_Example_114: -2117210858209566719
+      Ancient_Medium_Example_115: 8177471568370072157
+      Ancient_Medium_Example_116: 1929399632028996084
+      Ancient_Medium_Example_117: 5950660881391422632
+      Ancient_Medium_Example_118: 4604569226592147462
+      Ancient_Medium_Example_119: 3950937973712332324
+      Ancient_Medium_Example_12: 113025982038308212
+      Ancient_Medium_Example_120: -3473291033273111464
+      Ancient_Medium_Example_121: -4240771294603064926
+      Ancient_Medium_Example_122: 4036727046757765158
+      Ancient_Medium_Example_123: 5101599360390236822
+      Ancient_Medium_Example_124: 7309633758262543747
+      Ancient_Medium_Example_125: 5051612741365851846
+      Ancient_Medium_Example_126: 7568372837499161798
+      Ancient_Medium_Example_127: -5592530447930704784
+      Ancient_Medium_Example_128: 5471702918338981335
+      Ancient_Medium_Example_129: -3283153582260230258
+      Ancient_Medium_Example_13: 8184745319885838261
+      Ancient_Medium_Example_130: 7676527493501339039
+      Ancient_Medium_Example_14: 1229930757735763575
+      Ancient_Medium_Example_15: -8641770888123850656
+      Ancient_Medium_Example_16: 291514902083695148
+      Ancient_Medium_Example_17: 5661027835741592725
+      Ancient_Medium_Example_18: 2970756193963796889
+      Ancient_Medium_Example_19: 5939860790491342826
+      Ancient_Medium_Example_2: 6697603873797206787
+      Ancient_Medium_Example_20: 40125740707220509
+      Ancient_Medium_Example_21: 3906781029799250144
+      Ancient_Medium_Example_22: 8161949900384481883
+      Ancient_Medium_Example_23: 5535754413343588288
+      Ancient_Medium_Example_24: -52648188195459305
+      Ancient_Medium_Example_25: 9144406308815172598
+      Ancient_Medium_Example_26: 5529834740286759568
+      Ancient_Medium_Example_27: 1971166101581125028
+      Ancient_Medium_Example_28: 7093837560443899588
+      Ancient_Medium_Example_29: -2795600156640898437
+      Ancient_Medium_Example_3: 5290216279321725922
+      Ancient_Medium_Example_30: 8222936667585291244
+      Ancient_Medium_Example_31: -1520228379586114427
+      Ancient_Medium_Example_32: -5751898137060554214
+      Ancient_Medium_Example_33: 2089254254803109262
+      Ancient_Medium_Example_34: 3029649709971089182
+      Ancient_Medium_Example_35: -1821473702055023980
+      Ancient_Medium_Example_36: 3648720541990012205
+      Ancient_Medium_Example_37: -2349054578199041860
+      Ancient_Medium_Example_38: 3621585199080150269
+      Ancient_Medium_Example_39: -2048722694011358201
+      Ancient_Medium_Example_4: 4223222600047956463
+      Ancient_Medium_Example_40: 5450675767049868842
+      Ancient_Medium_Example_41: -1223556500812866400
+      Ancient_Medium_Example_42: 1290759922416633926
+      Ancient_Medium_Example_43: -8717356776551848348
+      Ancient_Medium_Example_44: 3695877572963954332
+      Ancient_Medium_Example_45: 1806772685830060263
+      Ancient_Medium_Example_46: 7057539100356964360
+      Ancient_Medium_Example_47: -8069998675722570689
+      Ancient_Medium_Example_48: -248255781724077231
+      Ancient_Medium_Example_49: 6330090436776784903
+      Ancient_Medium_Example_5: -4232672980942531326
+      Ancient_Medium_Example_50: 5127635576331273893
+      Ancient_Medium_Example_51: 7434873169363404854
+      Ancient_Medium_Example_52: -5829244818228515371
+      Ancient_Medium_Example_53: 8421751537416265853
+      Ancient_Medium_Example_54: -3860355974619967750
+      Ancient_Medium_Example_55: 968505222897236740
+      Ancient_Medium_Example_56: 6628143848076834162
+      Ancient_Medium_Example_57: -2194371880328960768
+      Ancient_Medium_Example_58: -5990249464485032035
+      Ancient_Medium_Example_59: -2579102155450402211
+      Ancient_Medium_Example_6: -8090421526269088980
+      Ancient_Medium_Example_60: -2324687848667423176
+      Ancient_Medium_Example_61: -4987485366977258879
+      Ancient_Medium_Example_62: 6244582755442321515
+      Ancient_Medium_Example_63: 9088693720590865418
+      Ancient_Medium_Example_64: 6880113292605152445
+      Ancient_Medium_Example_65: -2335343470487469208
+      Ancient_Medium_Example_66: -3448203025128779750
+      Ancient_Medium_Example_67: -4585999816828905356
+      Ancient_Medium_Example_68: 7271980883733041141
+      Ancient_Medium_Example_69: 8623929445501099465
+      Ancient_Medium_Example_7: 1636636567549109951
+      Ancient_Medium_Example_70: -4774541508330366673
+      Ancient_Medium_Example_71: -5083446487928165299
+      Ancient_Medium_Example_72: 8707415478176143485
+      Ancient_Medium_Example_73: -1246333799497894954
+      Ancient_Medium_Example_74: -4413681629389970107
+      Ancient_Medium_Example_75: 5443104414945053541
+      Ancient_Medium_Example_76: -7909713947184212579
+      Ancient_Medium_Example_77: 2181331952133017081
+      Ancient_Medium_Example_78: -4071306619441478127
+      Ancient_Medium_Example_79: -9191607955423619353
+      Ancient_Medium_Example_8: 5370742123926412331
+      Ancient_Medium_Example_80: 7279180007431498411
+      Ancient_Medium_Example_81: -1856099607526933070
+      Ancient_Medium_Example_82: -939681025359837825
+      Ancient_Medium_Example_83: 9120359101804740282
+      Ancient_Medium_Example_84: -2505664528618154167
+      Ancient_Medium_Example_85: 5403088626545714103
+      Ancient_Medium_Example_86: 7463207991755588670
+      Ancient_Medium_Example_87: 6926991857308376866
+      Ancient_Medium_Example_88: 7909722119659453248
+      Ancient_Medium_Example_89: 81953800052988615
+      Ancient_Medium_Example_9: -2225304199792523394
+      Ancient_Medium_Example_90: -2051311024721521426
+      Ancient_Medium_Example_91: -4850642759231089469
+      Ancient_Medium_Example_92: -7139940685168394032
+      Ancient_Medium_Example_93: -3716470820741111080
+      Ancient_Medium_Example_94: 3026115556077213686
+      Ancient_Medium_Example_95: 7615738676811471233
+      Ancient_Medium_Example_96: 1646248096714341947
+      Ancient_Medium_Example_97: 2276748452433552373
+      Ancient_Medium_Example_98: 8876330318436783589
+      Ancient_Medium_Example_99: 7967221591297675588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

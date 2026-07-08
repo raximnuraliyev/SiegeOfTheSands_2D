@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 38cb668e535c05f40a32be01c29954eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2775245958908652422
+    second: Impact Dust Puff (VFX)_0
+  - first:
+      213: 6213570624880233455
+    second: Impact Dust Puff (VFX)_1
+  - first:
+      213: -5846796745770810224
+    second: Impact Dust Puff (VFX)_2
+  - first:
+      213: 7103891746397012751
+    second: Impact Dust Puff (VFX)_3
+  - first:
+      213: 3085010288040307974
+    second: Impact Dust Puff (VFX)_4
+  - first:
+      213: 1466048062164610075
+    second: Impact Dust Puff (VFX)_5
+  - first:
+      213: 3313789916033948878
+    second: Impact Dust Puff (VFX)_6
+  - first:
+      213: -5533421427610015849
+    second: Impact Dust Puff (VFX)_7
+  - first:
+      213: -1515383396057613263
+    second: Impact Dust Puff (VFX)_8
+  - first:
+      213: -8435355023299372298
+    second: Impact Dust Puff (VFX)_9
+  - first:
+      213: 2241955486906719657
+    second: Impact Dust Puff (VFX)_10
+  - first:
+      213: 340634777777572108
+    second: Impact Dust Puff (VFX)_11
+  - first:
+      213: -5837919225809004779
+    second: Impact Dust Puff (VFX)_12
+  - first:
+      213: 7992569008616244994
+    second: Impact Dust Puff (VFX)_13
+  - first:
+      213: 4561873987256586068
+    second: Impact Dust Puff (VFX)_14
+  - first:
+      213: 2798934916757057269
+    second: Impact Dust Puff (VFX)_15
+  - first:
+      213: -7491004164209654082
+    second: Impact Dust Puff (VFX)_16
+  - first:
+      213: -3752007879986336446
+    second: Impact Dust Puff (VFX)_17
+  - first:
+      213: 5573831224137049762
+    second: Impact Dust Puff (VFX)_18
+  - first:
+      213: -1880582714904751135
+    second: Impact Dust Puff (VFX)_19
+  - first:
+      213: 844524034428610449
+    second: Impact Dust Puff (VFX)_20
+  - first:
+      213: -1291099587583413519
+    second: Impact Dust Puff (VFX)_21
+  - first:
+      213: 1967439087708137994
+    second: Impact Dust Puff (VFX)_22
+  - first:
+      213: 4289960576960098177
+    second: Impact Dust Puff (VFX)_23
+  - first:
+      213: 2147724497282118815
+    second: Impact Dust Puff (VFX)_24
+  - first:
+      213: 8177842311739525068
+    second: Impact Dust Puff (VFX)_25
+  - first:
+      213: -4533614982066332861
+    second: Impact Dust Puff (VFX)_26
+  - first:
+      213: 2577736517442904503
+    second: Impact Dust Puff (VFX)_27
+  - first:
+      213: -8040585677954250238
+    second: Impact Dust Puff (VFX)_28
+  - first:
+      213: 615961406529592618
+    second: Impact Dust Puff (VFX)_29
+  - first:
+      213: 1588658806281728282
+    second: Impact Dust Puff (VFX)_30
+  - first:
+      213: 300465026586817536
+    second: Impact Dust Puff (VFX)_31
+  - first:
+      213: -7769901216055843540
+    second: Impact Dust Puff (VFX)_32
+  - first:
+      213: -6037631660601496726
+    second: Impact Dust Puff (VFX)_33
+  - first:
+      213: 5196010677991359487
+    second: Impact Dust Puff (VFX)_34
+  - first:
+      213: 8760637826362616350
+    second: Impact Dust Puff (VFX)_35
+  - first:
+      213: 7575196311346472524
+    second: Impact Dust Puff (VFX)_36
+  - first:
+      213: -4385024176981795796
+    second: Impact Dust Puff (VFX)_37
+  - first:
+      213: 3676090522432746457
+    second: Impact Dust Puff (VFX)_38
+  - first:
+      213: -8577423766833799859
+    second: Impact Dust Puff (VFX)_39
+  - first:
+      213: -2109716385023787188
+    second: Impact Dust Puff (VFX)_40
+  - first:
+      213: 629125318178299730
+    second: Impact Dust Puff (VFX)_41
+  - first:
+      213: -5793774941505621962
+    second: Impact Dust Puff (VFX)_42
+  - first:
+      213: 2640311558663612705
+    second: Impact Dust Puff (VFX)_43
+  - first:
+      213: 465447987104702685
+    second: Impact Dust Puff (VFX)_44
+  - first:
+      213: 8247264029449079285
+    second: Impact Dust Puff (VFX)_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_0
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 962
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ba619ee77a38620800000000000000
+      internalID: 2775245958908652422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 928
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febc9caff890b3650800000000000000
+      internalID: 6213570624880233455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 938
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094cb6e56510cdea0800000000000000
+      internalID: -5846796745770810224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 918
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03c2d2c7e7169260800000000000000
+      internalID: 7103891746397012751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 925
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d611b038820da20800000000000000
+      internalID: 3085010288040307974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 909
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca8f0f1f2785410800000000000000
+      internalID: 1466048062164610075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 903
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc99751f52fcfd20800000000000000
+      internalID: 3313789916033948878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 905
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79725c667865533b0800000000000000
+      internalID: -5533421427610015849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 913
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf57384d648fae0800000000000000
+      internalID: -1515383396057613263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 393
+        width: 702
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa1fe97c499fea80800000000000000
+      internalID: -8435355023299372298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 890
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad105f03a60d1f10800000000000000
+      internalID: 2241955486906719657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 888
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09839f868d2ab400800000000000000
+      internalID: 340634777777572108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 888
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5171b3e056b8bfea0800000000000000
+      internalID: -5837919225809004779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 642
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2070e59ba2f4bee60800000000000000
+      internalID: 7992569008616244994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 624
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f0688b8380f4f30800000000000000
+      internalID: 4561873987256586068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_15
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 611
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feedb63a70d7d620800000000000000
+      internalID: 2798934916757057269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_16
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 611
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6cf45d66b9a0890800000000000000
+      internalID: -7491004164209654082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_17
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 617
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da2fe46b03eebc0800000000000000
+      internalID: -3752007879986336446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 560
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a66ba887f93a5d40800000000000000
+      internalID: 5573831224137049762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 571
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3dc5b0cf3d6e5e0800000000000000
+      internalID: -1880582714904751135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 552
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a564822a58bb00800000000000000
+      internalID: 844524034428610449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_21
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 556
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2ff6004c7151ee0800000000000000
+      internalID: -1291099587583413519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_22
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 561
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aef042d6fbd4b10800000000000000
+      internalID: 1967439087708137994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 523
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fe2226a60098b30800000000000000
+      internalID: 4289960576960098177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 519
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94b7e71d004ecd10800000000000000
+      internalID: 2147724497282118815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_25
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 525
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7c46421488d7170800000000000000
+      internalID: 8177842311739525068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_26
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 527
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b1c85a13d5511c0800000000000000
+      internalID: -4533614982066332861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 492
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1acb684b5f5c320800000000000000
+      internalID: 2577736517442904503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 495
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a817f3de91a6090800000000000000
+      internalID: -8040585677954250238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_29
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 488
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ddb8fb2a55c8800800000000000000
+      internalID: 615961406529592618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_30
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 489
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11f7b964cc0c0610800000000000000
+      internalID: 1588658806281728282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 461
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004b22989577b2400800000000000000
+      internalID: 300465026586817536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_32
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 461
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25ad1db204cb2490800000000000000
+      internalID: -7769901216055843540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_33
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 391
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b22315ef5063ca0800000000000000
+      internalID: -6037631660601496726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 384
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3cfc69e20fb1840800000000000000
+      internalID: 5196010677991359487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa13eefa9049970800000000000000
+      internalID: 8760637826362616350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_36
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 388
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46e7a9f8e0802960800000000000000
+      internalID: 7575196311346472524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_37
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 383
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c108f6eb34523c0800000000000000
+      internalID: -4385024176981795796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_38
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 390
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3b8c77ad8140330800000000000000
+      internalID: 3676090522432746457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_39
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 390
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dd0e9778ed6f880800000000000000
+      internalID: -8577423766833799859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_40
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 367
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff5d52028c8b2e0800000000000000
+      internalID: -2109716385023787188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_41
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 372
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fd835c42a1bb800800000000000000
+      internalID: 629125318178299730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_42
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 375
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6307ffe2360689fa0800000000000000
+      internalID: -5793774941505621962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_43
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 370
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a086af5544a420800000000000000
+      internalID: 2640311558663612705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_44
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 378
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0ebcc6a7a957600800000000000000
+      internalID: 465447987104702685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Impact Dust Puff (VFX)_45
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 356
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f94b2c50fa247270800000000000000
+      internalID: 8247264029449079285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Impact Dust Puff (VFX)_0: 2775245958908652422
+      Impact Dust Puff (VFX)_1: 6213570624880233455
+      Impact Dust Puff (VFX)_10: 2241955486906719657
+      Impact Dust Puff (VFX)_11: 340634777777572108
+      Impact Dust Puff (VFX)_12: -5837919225809004779
+      Impact Dust Puff (VFX)_13: 7992569008616244994
+      Impact Dust Puff (VFX)_14: 4561873987256586068
+      Impact Dust Puff (VFX)_15: 2798934916757057269
+      Impact Dust Puff (VFX)_16: -7491004164209654082
+      Impact Dust Puff (VFX)_17: -3752007879986336446
+      Impact Dust Puff (VFX)_18: 5573831224137049762
+      Impact Dust Puff (VFX)_19: -1880582714904751135
+      Impact Dust Puff (VFX)_2: -5846796745770810224
+      Impact Dust Puff (VFX)_20: 844524034428610449
+      Impact Dust Puff (VFX)_21: -1291099587583413519
+      Impact Dust Puff (VFX)_22: 1967439087708137994
+      Impact Dust Puff (VFX)_23: 4289960576960098177
+      Impact Dust Puff (VFX)_24: 2147724497282118815
+      Impact Dust Puff (VFX)_25: 8177842311739525068
+      Impact Dust Puff (VFX)_26: -4533614982066332861
+      Impact Dust Puff (VFX)_27: 2577736517442904503
+      Impact Dust Puff (VFX)_28: -8040585677954250238
+      Impact Dust Puff (VFX)_29: 615961406529592618
+      Impact Dust Puff (VFX)_3: 7103891746397012751
+      Impact Dust Puff (VFX)_30: 1588658806281728282
+      Impact Dust Puff (VFX)_31: 300465026586817536
+      Impact Dust Puff (VFX)_32: -7769901216055843540
+      Impact Dust Puff (VFX)_33: -6037631660601496726
+      Impact Dust Puff (VFX)_34: 5196010677991359487
+      Impact Dust Puff (VFX)_35: 8760637826362616350
+      Impact Dust Puff (VFX)_36: 7575196311346472524
+      Impact Dust Puff (VFX)_37: -4385024176981795796
+      Impact Dust Puff (VFX)_38: 3676090522432746457
+      Impact Dust Puff (VFX)_39: -8577423766833799859
+      Impact Dust Puff (VFX)_4: 3085010288040307974
+      Impact Dust Puff (VFX)_40: -2109716385023787188
+      Impact Dust Puff (VFX)_41: 629125318178299730
+      Impact Dust Puff (VFX)_42: -5793774941505621962
+      Impact Dust Puff (VFX)_43: 2640311558663612705
+      Impact Dust Puff (VFX)_44: 465447987104702685
+      Impact Dust Puff (VFX)_45: 8247264029449079285
+      Impact Dust Puff (VFX)_5: 1466048062164610075
+      Impact Dust Puff (VFX)_6: 3313789916033948878
+      Impact Dust Puff (VFX)_7: -5533421427610015849
+      Impact Dust Puff (VFX)_8: -1515383396057613263
+      Impact Dust Puff (VFX)_9: -8435355023299372298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
